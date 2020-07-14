@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="kdz"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kdz">
+				<Option output="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/kdz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/x86_64-linux-gnu/c++/7.5.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/aidenne/.ya/tools/v3/958916803/lib/clang/7.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 kdz"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kdz/fast">
+				<Option output="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/kdz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/x86_64-linux-gnu/c++/7.5.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7.5.0/../../../../include/c++/7.5.0/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/aidenne/.ya/tools/v3/958916803/lib/clang/7.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 kdz/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/Fano.cpp">
+			<Option target="kdz"/>
+		</Unit>
+		<Unit filename="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/Fano.h">
+			<Option target="kdz"/>
+		</Unit>
+		<Unit filename="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/LZ.cpp">
+			<Option target="kdz"/>
+		</Unit>
+		<Unit filename="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/LZ.h">
+			<Option target="kdz"/>
+		</Unit>
+		<Unit filename="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/main.cpp">
+			<Option target="kdz"/>
+		</Unit>
+		<Unit filename="/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="kdz" targetName="kdz" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afb41134-7d28-45bf-a250-c22028a518de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="kdz" />
+  </component>
+  <component name="ProjectId" id="1ZtInTl3dUbxUL7VVeE5qaUE6ch" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="kdz" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kdz" TARGET_NAME="kdz" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kdz" RUN_TARGET_NAME="kdz">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afb41134-7d28-45bf-a250-c22028a518de" name="Default Changelist" comment="" />
+      <created>1585652131314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585652131314</updated>
+      <workItem from="1585652135793" duration="36584000" />
+      <workItem from="1585734191261" duration="274000" />
+      <workItem from="1585852372753" duration="10432000" />
+      <workItem from="1585904740429" duration="96000" />
+      <workItem from="1586022583466" duration="7267000" />
+      <workItem from="1586081062166" duration="12615000" />
+      <workItem from="1586171290892" duration="3176000" />
+      <workItem from="1586176541964" duration="1065000" />
+      <workItem from="1586194975953" duration="403000" />
+      <workItem from="1586261398317" duration="3980000" />
+      <workItem from="1586427441062" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1234" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585904833936">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1234" y="311" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585904833936" />
+    <state width="881" height="344" key="GridCell.Tab.0.bottom" timestamp="1586120903012">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1586120903012" />
+    <state width="881" height="344" key="GridCell.Tab.0.center" timestamp="1586120903012">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1586120903012" />
+    <state width="881" height="344" key="GridCell.Tab.0.left" timestamp="1586120903012">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1586120903012" />
+    <state width="881" height="344" key="GridCell.Tab.0.right" timestamp="1586120903012">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1586120903012" />
+    <state width="881" height="344" key="GridCell.Tab.1.bottom" timestamp="1586120903013">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1586120903013" />
+    <state width="881" height="344" key="GridCell.Tab.1.center" timestamp="1586120903013">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1586120903013" />
+    <state width="881" height="344" key="GridCell.Tab.1.left" timestamp="1586120903013">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1586120903013" />
+    <state width="881" height="344" key="GridCell.Tab.1.right" timestamp="1586120903013">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1586120903013" />
+    <state x="898" y="188" key="SettingsEditor" timestamp="1586176918989">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="898" y="188" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1586176918989" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1586427449186">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586427449186" />
+    <state x="1119" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1586089507469">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1119" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586089507469" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>123</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>78</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

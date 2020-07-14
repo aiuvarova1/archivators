@@ -1,0 +1,1 @@
+/home/aidenne/.ya/tools/v3/433792615/bin/clang++  -g   CMakeFiles/kdz.dir/main.cpp.o CMakeFiles/kdz.dir/Fano.cpp.o CMakeFiles/kdz.dir/LZ.cpp.o  -o kdz 

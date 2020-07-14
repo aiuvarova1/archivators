@@ -1,0 +1,3 @@
+/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/CMakeFiles/kdz.dir
+/home/aidenne/education/algos/Уварова_Анастасия_БПИ181/cmake-build-debug/CMakeFiles/edit_cache.dir
